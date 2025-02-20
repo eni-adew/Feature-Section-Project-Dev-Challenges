@@ -29,11 +29,11 @@
 - [Contact](#contact)
 
 
-## Overview
+## Project Images
 
 ![screenshot](/assets/images/project%20screenshot.png)
 ![screenshot](/assets/images/project%20screenshot%20tablet%20view.png)
-![screenshot](/assets/images/project%20screenshot%20mobile%20view.png.png)
+![screenshot](/assets/images/project%20screenshot%20mobile%20view.png)
 
 ### Built with
 
@@ -43,7 +43,7 @@
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenge/simple-feature-section-challenge) challenge.
 
 
 ## Author
