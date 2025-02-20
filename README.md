@@ -33,7 +33,7 @@
 
 ![screenshot](/assets/images/project%20screenshot.png)
 ![screenshot](/assets/images/project%20screenshot%20tablet%20view.png)
-![screenshot](/assets/images/project%20screenshot%20mobile%20view.png.png)
+![screenshot](/assets/images/project%20screenshot%20mobile%20view.png)
 
 ### Built with
 
@@ -48,4 +48,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- GitHub [@your-username](https://github.com/eni-adew})
+- GitHub [@your-username]({https://github.com/eni-adew})
